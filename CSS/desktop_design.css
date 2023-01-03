@@ -1,0 +1,131 @@
+* {
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.btn {
+    margin: 40px 0.2rem 0px;
+    width: 12%;
+}
+
+.logo {
+    position: relative;
+    bottom: 50px;
+}
+
+.mac {
+    background-color: hsl(233, 100%, 69%);
+}
+
+section {
+    margin: 0px 0;
+}
+
+.head {
+    margin-bottom: 22px;
+}
+
+.first-para {
+    margin: 15px 0px 0px;
+    padding: 0% 30%;
+}
+
+.tools {
+    padding: 0px 30px;
+}
+
+.features {
+    margin: 70px;
+    padding: 5%;
+}
+
+.sync {
+    margin: 10% 0%;
+}
+
+.image {
+    margin: 4rem;
+}
+
+footer {
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    background-color: hsl(0deg 0% 95%);
+}
+
+.footer-logo {
+    width: 50px;
+    position: relative;
+    left: 7%;
+}
+
+.info {
+    position: relative;
+    left: 12%;
+    margin-bottom: -1%;
+}
+
+.social-media {
+    position: relative;
+    left: 45%;
+}
+
+.center {
+    text-align: center;
+}
+
+.second-para {
+    width: 63%;
+}
+
+.tools {
+    padding: 0px 10%;
+}
+
+.tools p {
+    padding: 0% 5%;
+}
+
+.extra {
+    position: relative;
+    top: 0.5rem;
+}
+
+p {
+    color: hsl(201, 11%, 66%);
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: hsl(233, 100%, 69%);
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: hsl(233, 58%, 64%);
+}
+
+#title {
+    position: relative;
+    bottom: 250px;
+}
+
+#track {
+    position: relative;
+    bottom: 120px;
+}
+
+#download {
+    margin-bottom: 6rem;
+}
